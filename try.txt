@@ -1,3 +1,4 @@
 I have a cat
 I have a dog
 I have a pig
+I have a fish
