@@ -1,7 +1,0 @@
-1.复现课堂代码：
-kernel 
-Harris corner 
-SIFT
-2.median blur
-3.RANSAC matching: used SIFT and BFMatcher
-What's new: 单应矩阵Homography
